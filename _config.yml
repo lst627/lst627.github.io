@@ -39,3 +39,9 @@ regenerate:       true
 
 plugins:
   - jemoji
+
+defaults:
+  - scope:
+      path: "files"
+    values:
+      pdf: true
