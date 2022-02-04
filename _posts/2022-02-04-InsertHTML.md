@@ -11,9 +11,7 @@ First, we put the html file in /_includes folder.
 
 Then we create a post and include the following line in that post. 
 
-```
-{% include crosswords.html %}
-```
+![image-20220204182049627](photos/image-20220204182049627.png)
 
 Finally, finished!
 
