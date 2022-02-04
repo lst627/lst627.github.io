@@ -13,7 +13,7 @@ First, we put the html file in the /_includes folder.
 
 Then we create a post and include the following line in that post. 
 
-![img-1](photos/image-20220204182049627.png)
+![img-1](/assets/photos/image-20220204182049627.png)
 
 Finally, we are done!
 
