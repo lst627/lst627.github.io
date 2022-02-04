@@ -5,14 +5,16 @@ date: 2022-02-04
 category: Default
 layout: post
 ---
-Here we are talking about how to insert a html file in your post in Jekyll!
+Here we are talking about how to insert a html file in your post in Jekyll! 
 
-First, we put the html file in /_includes folder. 
+For example, we need to insert crossword.html (the crossword below).
+
+First, we put the html file in the /_includes folder. 
 
 Then we create a post and include the following line in that post. 
 
-![image-20220204182049627](photos/image-20220204182049627.png)
+![img-1](photos/image-20220204182049627.png)
 
-Finally, finished!
+Finally, we are done!
 
 {% include crosswords.html %}
