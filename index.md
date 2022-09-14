@@ -2,7 +2,7 @@
 layout: home
 ---
 
-<img src="E:\GitHub\lst627.github.io\assets\photos\photo.jpg" style="zoom:20%;" />
+<img src="/assets/photos/photo.jpg" alt="img-1" style="zoom:50%;" />
 
 Welcome to my personal website!
 
