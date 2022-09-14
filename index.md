@@ -2,7 +2,7 @@
 layout: home
 ---
 
-<img src="/assets/photos/photo.jpg" alt="img-1" style="zoom:20%;" />
+<img src="/assets/photos/photo.jpg" alt="img-1" style="zoom:30%;" />
 
 Welcome to my personal website!
 
