@@ -2,6 +2,8 @@
 layout: home
 ---
 
+<img src="E:\GitHub\lst627.github.io\assets\photos\photo.jpg" style="zoom:20%;" />
+
 Welcome to my personal website!
 
 I am a senior undergraduate studying in Institute for Interdisciplinary Information Sciences, Tsinghua University. 
