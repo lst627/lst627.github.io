@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2020-10-16-causal-for-gan
 excerpt: 'What mechanisms causes GAN's entanglement?'
 date: 2020-10-16
-venue: 'Preprint'
+venue: 'Arxiv preprint'
 paperurl: 'https://arxiv.org/pdf/2010.08402.pdf'
 citation: 'Liu, X., Zhang, J., Li, S., Wu, Z., & Yu, Y. (2020). Difference-in-Differences: Bridging Normalization and Disentanglement in PG-GAN. *arXiv*. https://doi.org/10.48550/arXiv.2010.08402.'
 ---
