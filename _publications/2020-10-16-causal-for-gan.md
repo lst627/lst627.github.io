@@ -2,7 +2,7 @@
 title: "Bridging Normalization and Disentanglement in PG-GAN"
 collection: publications
 permalink: /publications/2020-10-16-causal-for-gan
-excerpt: 'What mechanisms cause GAN's entanglement?'
+excerpt: 'A difference-in-difference (DID) counterfactual framework to design experiments for analyzing the entanglement mechanism in on of the Progressive-growing GAN (PG-GAN).'
 date: 2020-10-16
 venue: 'Arxiv preprint'
 paperurl: 'https://arxiv.org/pdf/2010.08402.pdf'
