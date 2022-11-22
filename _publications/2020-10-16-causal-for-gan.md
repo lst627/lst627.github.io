@@ -1,7 +1,7 @@
 ---
 title: "Difference-in-Differences: Bridging Normalization and Disentanglement in PG-GAN"
 collection: publications
-permalink: /publications/2020-10-16-causal-for-gan
+permalink: /publication/2020-10-16-causal-for-gan
 excerpt: 'What mechanisms causes GAN's entanglement?'
 date: 2020-10-16
 venue: 'Arxiv preprint'

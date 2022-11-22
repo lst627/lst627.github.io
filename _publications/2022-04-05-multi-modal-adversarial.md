@@ -1,7 +1,7 @@
 ---
 title: "Training-Free Robust Multimodal Learning via Sample-Wise Jacobian Regularization"
 collection: publications
-permalink: /publications/2022-04-05-multi-modal-adversarial
+permalink: /publication/2022-04-05-multi-modal-adversarial
 excerpt: 'A training-free robust late-fusion method by exploiting conditional independence assumption and Jacobian regularization.'
 date: 2022-04-05
 venue: 'Arxiv preprint'
