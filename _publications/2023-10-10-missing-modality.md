@@ -13,13 +13,11 @@ Download paper [here](https://arxiv.org/pdf/2310.06383.pdf).
 Recommended citation: 
 
 ```
-@misc{li2023makes,
-      title={What Makes for Robust Multi-Modal Models in the Face of Missing Modalities?}, 
-      author={Siting Li and Chenzhuang Du and Yue Zhao and Yu Huang and Hang Zhao},
-      year={2023},
-      eprint={2310.06383},
-      archivePrefix={arXiv},
-      primaryClass={id='cs.AI' full_name='Artificial Intelligence' is_active=True alt_name=None in_archive='cs' is_general=False description='Covers all areas of AI except Vision, Robotics, Machine Learning, Multiagent Systems, and Computation and Language (Natural Language Processing), which have separate subject areas. In particular, includes Expert Systems, Theorem Proving (although this may overlap with Logic in Computer Science), Knowledge Representation, Planning, and Uncertainty in AI. Roughly includes material in ACM Subject Classes I.2.0, I.2.1, I.2.3, I.2.4, I.2.8, and I.2.11.'}
+@article{li2023makes,
+  title={What makes for robust multi-modal models in the face of missing modalities?},
+  author={Li, Siting and Du, Chenzhuang and Zhao, Yue and Huang, Yu and Zhao, Hang},
+  journal={arXiv preprint arXiv:2310.06383},
+  year={2023}
 }
 ```
 

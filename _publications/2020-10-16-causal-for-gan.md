@@ -13,13 +13,11 @@ Download paper [here](https://arxiv.org/pdf/2010.08402.pdf).
 Recommended citation: 
 
 ```
-@misc{liu2020differenceindifferences,
-      title={Difference-in-Differences: Bridging Normalization and Disentanglement in PG-GAN}, 
-      author={Xiao Liu and Jiajie Zhang and Siting Li and Zuotong Wu and Yang Yu},
-      year={2020},
-      eprint={2010.08402},
-      archivePrefix={arXiv},
-      primaryClass={id='cs.CV' full_name='Computer Vision and Pattern Recognition' is_active=True alt_name=None in_archive='cs' is_general=False description='Covers image processing, computer vision, pattern recognition, and scene understanding. Roughly includes material in ACM Subject Classes I.2.10, I.4, and I.5.'}
+@article{liu2020difference,
+  title={Difference-in-Differences: Bridging Normalization and Disentanglement in PG-GAN},
+  author={Liu, Xiao and Zhang, Jiajie and Li, Siting and Wu, Zuotong and Yu, Yang},
+  journal={arXiv preprint arXiv:2010.08402},
+  year={2020}
 }
 ```
 

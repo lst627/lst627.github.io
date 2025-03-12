@@ -13,13 +13,11 @@ Download paper [here](https://arxiv.org/pdf/2204.02485.pdf).
 Recommended citation: 
 
 ```
-@misc{gao2022trainingfree,
-      title={Training-Free Robust Multimodal Learning via Sample-Wise Jacobian Regularization}, 
-      author={Zhengqi Gao and Sucheng Ren and Zihui Xue and Siting Li and Hang Zhao},
-      year={2022},
-      eprint={2204.02485},
-      archivePrefix={arXiv},
-      primaryClass={id='cs.CV' full_name='Computer Vision and Pattern Recognition' is_active=True alt_name=None in_archive='cs' is_general=False description='Covers image processing, computer vision, pattern recognition, and scene understanding. Roughly includes material in ACM Subject Classes I.2.10, I.4, and I.5.'}
+@article{gao2022training,
+  title={Training-free robust multimodal learning via sample-wise jacobian regularization},
+  author={Gao, Zhengqi and Ren, Sucheng and Xue, Zihui and Li, Siting and Zhao, Hang},
+  journal={arXiv preprint arXiv:2204.02485},
+  year={2022}
 }
 ```
 
