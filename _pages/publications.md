@@ -12,11 +12,15 @@ author_profile: true
 {% include base_path %}
 
 {% for post in site.publications reversed %}
-  {% include archive-single.html %}
+  {% if post.published == "yes" %}
+    {% include archive-single.html %}
+  {% endif %}
 {% endfor %}
 
-## Preprints
+# Preprints
 
-{% for post in site.preprints reversed %}
-  {% include archive-single.html %}
+{% for post in site.publications reversed %}
+  {% if post.published == "no" %}
+    {% include archive-single.html %}
+  {% endif %}
 {% endfor %}
