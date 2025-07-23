@@ -14,8 +14,8 @@ Download paper [here](https://arxiv.org/pdf/2411.05195v2).
 Recommended citation: 
 
 ```
-@article{li2024erroneous,
-  title={On Erroneous Agreements of CLIP Image Embeddings},
+@article{li2024exploring,
+  title={Exploring how generative mllms perceive more than clip with the same vision encoder},
   author={Li, Siting and Koh, Pang Wei and Du, Simon Shaolei},
   journal={arXiv preprint arXiv:2411.05195},
   year={2024}
